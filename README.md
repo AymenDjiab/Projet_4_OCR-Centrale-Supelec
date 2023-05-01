@@ -1,5 +1,5 @@
 # Projet_4_OCR-Centrale-Supelec
-Segmentez des clients d'un site e-commerce
+## Segmentez des clients d'un site e-commerce
 
 Olist souhaite que nous fournissions à ses équipes d'e-commerce une segmentation des clients qu’elles pourront utiliser au quotidien pour leurs campagnes de communication.
 
